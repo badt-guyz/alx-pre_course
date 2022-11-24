@@ -1,3 +1,3 @@
 My first readme
-And ist awesome 
-ly crafted to fit individual preference
+And it is crafted to fit individual preference
+Coding is awesom
